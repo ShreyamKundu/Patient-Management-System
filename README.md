@@ -18,6 +18,7 @@ It follows a modular, scalable design and is currently under **active** developm
 ### ☁️ AWS ECS Deployment
 
 This ECS architecture shows how services are containerized, deployed in a private VPC with RDS, MSK, and an Application Load Balancer:
+![ecs](https://github.com/user-attachments/assets/20e6b0a7-94d8-46d7-b199-e7b5ad43b387)
 
 
 ---
